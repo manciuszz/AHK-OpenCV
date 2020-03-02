@@ -2,12 +2,11 @@
 ![Preview](https://i.imgur.com/AXHuWvE.png)
 
 # #How to use
-```AHK
-    ; Create OpenCV instance.
-	cv := new OpenCV()
-		
-	pImg := cv.LoadImage("2.png") ; Load IPL type image
-	cv.ShowImage("Preview", pImg) ; Display input image inside window
+```AutoHotkey
+; Create OpenCV instance.
+cv := new OpenCV()	
+pImg := cv.LoadImage("2.png") ; Load IPL type image
+cv.ShowImage("Preview", pImg) ; Display input image inside window
 ```
 For general OpenCV capabilities check out the official OpenCV documentation:
 > [OpenCV 2.4.13.6 documentation](https://docs.opencv.org/2.4.13.6/)
