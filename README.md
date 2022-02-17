@@ -13,6 +13,12 @@ For general OpenCV capabilities check out the official OpenCV documentation:
 
 `Note:` Not all methods are translated to this AHK library.
 
+# #OpenCV 4+ for AutoHotkey?
+
+IT IS POSSIBLE.
+
+Check out [autohotkey.com - OpenCV COM](https://www.autohotkey.com/boards/viewtopic.php?t=96394).
+
 # #Credits
 
 [AutoIT Community](https://www.autoitscript.com/forum/topic/160732-opencv-udf/)
