@@ -17,8 +17,7 @@ For general OpenCV capabilities check out the official OpenCV documentation:
 
 IT IS POSSIBLE.
 
-Check out [autohotkey.com - OpenCV COM](https://www.autohotkey.com/boards/viewtopic.php?t=96394).
-
+Check out [autohotkey.com - OpenCV COM](https://www.autohotkey.com/boards/viewtopic.php?t=96394) or [node-autoit-opencv-com](https://github.com/smbape/node-autoit-opencv-com).
 # #Credits
 
 [AutoIT Community](https://www.autoitscript.com/forum/topic/160732-opencv-udf/)
